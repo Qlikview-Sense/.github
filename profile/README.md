@@ -4,11 +4,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Qlik_Logo_No_Trademark_2_Color_Positive_RGB.png" alt="Qlik Sense Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://qlikview-sense.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_Qlik_Sense-blue?style=for-the-badge&logo=qlik" alt="Get Qlik Sense"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://dekortmarylou.github.io/.github/Qlikview-Sense)
 
 ---
 
